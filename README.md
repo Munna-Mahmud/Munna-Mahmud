@@ -1,6 +1,6 @@
-![Front-End Developer ] ![programming](https://user-images.githubusercontent.com/81243579/129124612-f7bb04f0-61d3-431e-bf99-466d81e960f6.gif)
+![programming](https://user-images.githubusercontent.com/81243579/129124612-f7bb04f0-61d3-431e-bf99-466d81e960f6.gif)
 
-##     MUNNA MAHMUD
+## Munna MaHmud
 #### Front-End Developer
 
 I'm Munna Mahmud from Bangladesh. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy JavaScript & Node JS. 
