@@ -1,11 +1,12 @@
-![Front-End Developer ](https://media-exp1.licdn.com/dms/image/C4E16AQG3K78in1Cqmg/profile-displaybackgroundimage-shrink_200_800/0/1620144659277?e=1631750400&v=beta&t=WD6dtozrw2dn6RnE2YXJFyb4WdfuZHP_KNPq4ZE8xS4)
+![Front-End Developer ] ![programming](https://user-images.githubusercontent.com/81243579/129124612-f7bb04f0-61d3-431e-bf99-466d81e960f6.gif)
+https://www.facebook.com/photo/?fbid=1178953732588244&set=a.122525471564414
 ##     MUNNA MAHMUD
 #### Front-End Developer
 
 I'm Munna Mahmud from Bangladesh. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy JavaScript & Node JS. 
 
 ## Skills and Experience:
-VUE JS / REACT / JS / Node JS / HTML / CSS
+Javascript || REACT JS || VUE JS|| Node JS || HTML || CSS || Bootstrap || Tailwind
 
 
 
