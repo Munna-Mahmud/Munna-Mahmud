@@ -3,10 +3,10 @@
 ## Munna MaHmud
 #### Front-End Developer
 
-I'm Munna Mahmud from Bangladesh. I really enjoy learning languages and frameworks like React and React Native, as well as work as a team member. I also enjoy JavaScript & Node JS. 
+I'm Munna Mahmud from Bangladesh. I really enjoy learning languages and frameworks like React and React Native, as well as working as a team member. I also enjoy JavaScript & Node JS. 
 
 ## Skills and Experience:
-Javascript || REACT JS || VUE JS|| Node JS || HTML || CSS || Bootstrap || Tailwind
+Javascript || REACT JS || VUE JS || Node JS || HTML || CSS || Bootstrap || Tailwind
 
 
 
