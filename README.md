@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/munna-mahmud-ba3371211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munna mahmud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/munna-mahmud-ba3371211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munna mahmud" height="30" width="40" /></a>
 <a href="https://www.facebook.com/munnaMaHmud4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="munna mahmud" height="30" width="40" /></a>
 <a href="https://instagram.com/munna_mahmud0ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="munna_mahmud0ce" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/weekly munna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weekly munna" height="30" width="40" /></a>
