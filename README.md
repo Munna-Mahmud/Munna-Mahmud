@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munna-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="munna-mahmud" /> </p>
-<img src="munna-mahmud.png" alt="munna-mahmud" />
+<img src="Munna Mahmud.png" alt="munna-mahmud" />
 
 <h1 align="center">Hi 👋, I'm Munna MaHmud</h1>
 <h3 align="center">A Front-end Developer</h3>
