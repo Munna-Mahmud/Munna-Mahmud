@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Munna MaHmud</h1>
 <h3 align="center">A Front-end Developer</h3>
 
-<p >Hi, I'm Munna MaHmud. A Front-End Developer by passion and an expat by choice living now in Dhaka, Bangladesh. Always love to work as Developer.  </p>
+<p >Hello, I'm Munna MaHmud. A Front-End Developer by passion and an expart by choice living now in Dhaka, Bangladesh. Always love to work as a Developer.  </p>
 
 
 - 🌱 I’m currently learning **MERN STACK**
