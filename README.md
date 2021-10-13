@@ -1,10 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munna-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="munna-mahmud" /> </p>
 <img src="https://github.com/codingknite/codingknite/blob/main/readme.gif" alt="munna-mahmud" />
 
 <h1 align="center">Hi 👋, I'm Munna MaHmud</h1>
 <h3 align="center">A Front-end Developer</h3>
 
 <p >Hi, I'm Munna MaHmud. A Front-End Developer by passion and an expat by choice living now in Dhaka, Bangladesh. Always love to work as Developer.  </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munna-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="munna-mahmud" /> </p>
+
 
 - 🌱 I’m currently learning **MERN STACK**
 
