@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **learnermunna@gmail.com**
 
-- 📄 Know about my experiences [{resume Link}]({resume Link})
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
