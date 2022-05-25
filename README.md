@@ -7,7 +7,7 @@
 <p >Hello, I'm Munna MaHmud (Babu). A Front-End Developer by passion and an expart by choice living now in Dhaka, Bangladesh. Always love to work as a Developer.  </p>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **App Development(React Native)**
 
 - 📫 How to reach me **munna.babu705@gmail.com**
 
