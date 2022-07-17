@@ -6,11 +6,16 @@
 
 <p >Hello, I'm Munna MaHmud (Babu). A Front-End Developer by passion and an expart by choice living now in Dhaka, Bangladesh. Always love to work as a Developer.  </p>
 
+- 🔭 Softwere Engineer ENTHUSIAST
 
-- 🌱 I’m currently learning **App Development(React Native)**
+- 👨‍💻 I’m currently working as a Front-End Developer
+
+- 🌱 I’m currently learning/Practising **(MERN-Stack, OOP, DSA)**
 
 - 📫 How to reach me **munna.babu705@gmail.com**
 
+- ⚡ Fun fact I Love to play cricket
+ - 💻 Protfolio Site (<a href="https://www.linkedin.com/in/munna-babu28/" target="blank">(Click Here) </a>) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
